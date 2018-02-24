@@ -1,2 +1,2 @@
-# [UW-Madison Mathematical Foundations of Data Science Reading Group](https://mfds-reading.github.io/mfds-reading/)
+[Mathematical Foundations of Data Science Reading Group @ UW-Madison](https://mfds-reading.github.io/mfds-reading/)
 
