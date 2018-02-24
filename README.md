@@ -1,3 +1,2 @@
-# [UChicago Programming Languages Reading Group](https://uchicago-cs.github.io/plrg)
+# [UW-Madison Mathematical Foundations of Data Science Reading Group](https://mfds-reading.github.io/mfds-reading/)
 
-create one issue per paper to read; we can use these to track which have been covered
