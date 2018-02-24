@@ -1,4 +1,4 @@
 CSS: theme.css
 Format: complete
-Title: UChicago PL Reading Group
+Title: UW-Madison MFDS Reading Group
 
